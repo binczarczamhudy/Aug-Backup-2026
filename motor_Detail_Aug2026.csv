@@ -1,7 +1,7 @@
 VM Name,Backup Status
-NA,Success
-NA,Success
-NA,Success
+NA (172.19.19.63),Success
+NA (172.19.19.66),Success
+NA (172.19.19.60),Success
 Warehouse SAP HANA,Success
 BMWDELLESX03,Success
 AD_MYHQKUL990006S,Success
@@ -35,7 +35,7 @@ GDMS EDMS Print Server,Success
 GDMSPRD_HKM,Success
 MTRGDMSPRD,Success
 GDMS Sonic PRD,Success
-NA,Success
+NA (172.17.82.11),Success
 Qlikview Console,Success
 SDAPPRODSQL,Success
 SDRAC - DB,Success
@@ -57,7 +57,7 @@ GDMSPRD_SG,Success
 MYMTKUL990014S PMI ISPA INDONESIA,Success
 Zabbix-POC,Success
 Motor-AI,Success
-NA,Success
+NA (172.17.82.18),Success
 Qlikview Dev Svr 2,Success
 Qlikview Dev Svr 4,Success
 Tenable_WAS Scanner,Success
@@ -82,7 +82,7 @@ MYMTABIND008S,Success
 NEWQLIKSENSE,Success
 MYMTKUL990577S,Success
 MYMTKUL990578S,Success
-NA,Success
+NA (172.17.82.63),Success
 MYMTKUL990580S,Success
 CarPro-V2 DB,Success
 CarPro-V2 App PROD,Success
@@ -93,11 +93,11 @@ SAPGHODPQDB-DealerPortal QAS DB,Success
 SAPGHODPPDB-DealerPortal Prod DB,Success
 MYMTKUL990587S,Success
 DLVCINO05,Success
-NA,Success
-NA,Success
+NA (172.19.19.16),Success
+NA (172.19.19.24),Success
 vCentre_new,Success
-NA,Success
-NA,Success
+NA (172.19.19.81),Success
+NA (172.19.19.84),Success
 Inokom.com.my,Success
 LeanERP_PrintServer,Success
 Entrypass_Inokom,Success
@@ -121,7 +121,7 @@ FortiSIEM-VA-7.4.1.0452,Success
 Access Control,Success
 SCCM Dist Point,Success
 SCCM_Pilot,Success
-NA,Success
+NA (172.23.4.13),Success
 BMW ISPA SPM PUCHONG,Success
 BMW ISPA SPM DAMANSARA,Success
 BMW KPRINT Server SPM,Success
@@ -137,7 +137,7 @@ HKDC991039S,Success
 HKDC991029S,Success
 HKDC991026S,Success
 HKDC991047S,Success
-NA,Success
+NA (172.28.0.4),Success
 HKHQTSW991001V-0.49 File Server,Success
 HKDC991010S,Success
 HKDC991037S,Success
@@ -148,26 +148,25 @@ HKDC991036S,Success
 HKDC991024S,Success
 HKDC991040S,Success
 HKDC991038S,Success
-NA,Success
+NA (172.28.0.93),Success
 Photon-machine1,Success
-NA,Success
-NA,Success
+NA (172.28.1.12),Success
+NA (172.28.1.13),Success
 HKCWBMWESXI01,Success
 HKCWBMWISPAHUB-24.32,Success
-NA,Success
+NA (172.28.25.33),Success
 HKSTBMWISPAHUB,Success
-NA,Success
+NA (172.28.26.36),Success
 ESXi,Success
-NA,Success
+NA (172.28.4.68),Success
 HKMTWBMWISPAHUB,Success
-"HKMTMTW990006S
-(HKMTMTW991006S)",Success
+HKMTMTW990006S (HKMTMTW991006S),Success
 HKDC991002S,Success
 HKDC991048S,Success
 HKDC991027S,Success
 HKDC991031S,Success
-NA,Success
-NA,Success
+NA (172.28.75.3),Success
+NA (172.28.75.4),Success
 HKSDMSLTW99002V,Success
 HKSDMSLTW99003V,Success
 HKSDMSLTW99001E,Success
@@ -176,31 +175,31 @@ HKSDMATW991001E,Success
 HKSDMATW991001V,Success
 HKTWBMWESXI01,Success
 HKTWBMWISPAHUB,Success
-NA,Success
+NA (172.28.84.9),Success
 MCBMWISPAHUB,Success
 MCMTBMW920001E,Success
-NA,Success
+NA (172.28.86.5),Success
 MCMTBMW920003V,Success
 SDMVC01,Success
 ghovcsa1,Success
 PWCVSDM01,Success
-NA,Success
-NA,Success
-NA,Success
-NA,Success
-NA,Success
+NA (192.168.117.23),Success
+NA (192.168.117.28),Success
+NA (192.168.117.29),Success
+NA (192.168.117.30),Success
+NA (192.168.117.42),Success
 Veeam DB,Success
 Veeam One,Success
-NA,Success
-NA,Success
-NA,Success
-NA,Success
-NA,Success
-NA,Success
+NA (192.168.117.81),Success
+NA (192.168.117.82),Success
+NA (192.168.117.83),Success
+NA (192.168.117.84),Success
+NA (192.168.117.85),Success
+NA ("192.168.120.1 / (172.19.30.5),Success
 COLD&HOT,Success
 Acronis_Backup,Success
 NTP for SDAE,Success
-NA,Success
+NA (172.19.4.8),Success
 New-ECC-Shell,Success
 S4-HANA-Copy,Success
 GHO-SAPPRD-CLONE,Success
