@@ -195,7 +195,7 @@ NA (192.168.117.82),Success
 NA (192.168.117.83),Success
 NA (192.168.117.84),Success
 NA (192.168.117.85),Success
-NA (192.168.120.1 / (172.19.30.5),Success
+NA ([192.168.120.1] [172.19.30.5]),Success
 COLD&HOT,Success
 Acronis_Backup,Success
 NTP for SDAE,Success
